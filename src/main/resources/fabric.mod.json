@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "LilyLib",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Library mod for Lilydev projects.",
   "authors": [
     "jadelily18"
   ],
@@ -35,7 +35,7 @@
     "fabric": "*",
     "minecraft": "~1.18",
     "java": ">=17",
-    "fabric-language-kotlin": ">=1.8.5+kotlin.1.7.20"
+    "fabric-language-kotlin": "*"
   },
   "custom": {
     "modmenu": {
